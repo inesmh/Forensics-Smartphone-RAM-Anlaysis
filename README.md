@@ -1,17 +1,16 @@
 <h1>Forensics Smartphone RAM Analysis App</h1>
 
 <h3>Objective</h3>
-The aim of this project is to find the user's unlock password
+The aim of this project is to find the user's smartphone unlock password of a provided memory image.
 <br /> <br />
 <h3>Skills Learned</h3>
-● Understand OpenIdConnect with Google as an IdP <br />
-● Basic React <br />
+● Reverse engineering of smartphones <br />
+● Brute-force password <br />
 
 <br />
 <h3>Tools Used</h3>
 ● Volatility <br />
-● Node.js: as the JavaScript runtime environment <br />
-● Npm: package manager for Node.js packages <br />
+● Hashcat <br />
 <br />
 
 <h3>Steps</h3>
